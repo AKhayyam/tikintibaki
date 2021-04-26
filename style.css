@@ -83,7 +83,7 @@ body{
 /*=====Header======*/
 .banner{
     height: 100vh;
-    background: linear-gradient(rgba(2, 0, 36, 0.349), rgba(9, 9, 121, 0.295)),url('./images/hero-img.jpg');
+    background: linear-gradient(rgba(2, 0, 36, 0.349), rgba(9, 9, 121, 0.295)),url('./building-768815_1280.jpg');
     justify-content: center;
     align-items: center;
 }
